@@ -1,37 +1,16 @@
-## Hi, I'm Michael! 👋 </br>
+&nbsp;<div align='center'>  hi! i'm michael wu </div>
+&nbsp;<div align='center'>  cs + ai @ cornell university </div>
+&nbsp;<div align='center'>  roblox game dev, fullstack development, machine learning, and robotics </div>
 
-### About Me
-I'm currently a sophomore in the Cornell College of Engineering majoring in Computer Science.
 
-### Projects
-🔭 Working on a GAN to delve into the impact of data augmentation within the realm of machine learning. \
-🌱 Exploring Game Development, Robotics, and Machine Learning
+&nbsp;<div align='center'>
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,express,mongodb,nextjs,typescript,aws,docker,python,java,lua)](https://skillicons.dev)
+</div>
 
-### Coursework
-- CS 4780: Introduction to Machine Learning
-- CS 4300: Language and Information
-- CS 4820: Introduction to Analysis of Algorithms
-- MATH 4710: Probability and Statistics
-- CS 3110: Functional Programming and Data Structures
-- CS 2043: UNIX Tools and Scripting
-- CS 2110: Data Structures and Object Oriented Programming
-- CS 2800: Discrete Math
+&nbsp;<div align='center'>
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rfc7wgtyeteipozumnvinfv7z&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+</div>
 
-### Skills
-- Python, Java
-- Frameworks: React, Next
-- Libraries: scikit-learn, pandas, numpy, gdown, gspread
 <!--
 **michaelwu2004/michaelwu2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
